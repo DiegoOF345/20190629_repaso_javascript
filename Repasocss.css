@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.favorite {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.favorite h2 {
+  margin-top: 0;
+}
